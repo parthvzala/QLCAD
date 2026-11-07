@@ -1,0 +1,4 @@
+module QLCADCore [system] {
+    header "qlcad_bridge.h"
+    export *
+}

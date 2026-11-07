@@ -1,0 +1,15 @@
+# Build output
+build/
+
+# OCCT source, objects and install, recreated by scripts/build_occt.sh
+.occt/
+
+# STEP models, in any letter case
+*.[sS][tT][eE][pP]
+*.[sS][tT][pP]
+
+# macOS
+.DS_Store
+
+# Private notes and files the build no longer uses
+local/
